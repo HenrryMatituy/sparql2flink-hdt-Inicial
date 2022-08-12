@@ -1,4 +1,4 @@
-package sparql2flink.runner;
+package sparql2flinkhdt.runner;
 
 import org.apache.flink.api.java.DataSet;
 import org.apache.flink.api.java.ExecutionEnvironment;

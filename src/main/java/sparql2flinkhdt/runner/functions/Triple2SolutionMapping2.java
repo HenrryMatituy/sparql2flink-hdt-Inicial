@@ -1,4 +1,4 @@
-package sparql2flink.runner.functions;
+package sparql2flinkhdt.runner.functions;
 
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.util.Collector;

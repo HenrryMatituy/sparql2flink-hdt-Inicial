@@ -1,6 +1,6 @@
-package sparql2flink.runner.functions;
+package sparql2flinkhdt.runner.functions;
 
-import sparql2flink.runner.functions.filter.FilterConvert;
+import sparql2flinkhdt.runner.functions.filter.FilterConvert;
 import org.apache.jena.graph.Node;
 import org.apache.jena.sparql.expr.Expr;
 import org.apache.jena.sparql.sse.SSE;

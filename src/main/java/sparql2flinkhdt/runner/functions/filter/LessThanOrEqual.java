@@ -1,4 +1,4 @@
-package sparql2flink.runner.functions.filter;
+package sparql2flinkhdt.runner.functions.filter;
 
 import org.apache.jena.datatypes.xsd.XSDDateTime;
 import org.apache.jena.graph.Node;

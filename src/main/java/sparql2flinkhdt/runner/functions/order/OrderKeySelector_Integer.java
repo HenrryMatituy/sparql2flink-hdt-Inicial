@@ -1,7 +1,7 @@
-package sparql2flink.runner.functions.order;
+package sparql2flinkhdt.runner.functions.order;
 
 import org.apache.flink.api.java.functions.KeySelector;
-import sparql2flink.runner.functions.SolutionMapping;
+import sparql2flinkhdt.runner.functions.SolutionMapping;
 
 // SolutionMapping - Key Selector Order by
 public class OrderKeySelector_Integer implements KeySelector<SolutionMapping, Integer> {

@@ -77,6 +77,15 @@ under the License.
 			<scope>compile</scope>
 		</dependency>
 
+
+		<!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-core -->
+		<dependency>
+			<groupId>com.amazonaws</groupId>
+			<artifactId>aws-java-sdk-core</artifactId>
+			<version>1.12.130</version>
+		</dependency>
+
+
 		<!-- Add connector dependencies here. They must be in the default scope (compile). -->
 
 		<!-- Example:

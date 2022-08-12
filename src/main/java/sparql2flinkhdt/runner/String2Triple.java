@@ -1,4 +1,4 @@
-package sparql2flink.runner;
+package sparql2flinkhdt.runner;
 
 import com.amazonaws.util.StringInputStream;
 import org.apache.flink.api.common.functions.MapFunction;

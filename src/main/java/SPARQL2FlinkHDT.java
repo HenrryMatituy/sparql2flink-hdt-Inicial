@@ -8,6 +8,7 @@ import sparql2flinkhdt.mapper.LogicalQueryPlan2FlinkProgram;
 import sparql2flinkhdt.mapper.Query2LogicalQueryPlan;
 
 public class SPARQL2FlinkHDT {
+//    A ver si se daña el repositorio original
 
     public static void main(String[] args) throws Exception {
         Path path=null;
